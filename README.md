@@ -1,4 +1,5 @@
 Background
+
 Lending services companies allow individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market.
 
 You will be using this data to create machine learning models to classify the risk level of given loans. Specifically, you will be comparing the Logistic Regression model and Random Forest Classifier.
@@ -15,5 +16,20 @@ You will be creating and comparing two models on this data: a Logistic Regressio
 
 Fit a LogisticRegression model and RandomForestClassifier model
 Create a Logistic Regression model, fit it to the data, and print the model's score. Do the same for a Random Forest Classifier. You may choose any starting hyperparameters you like. Which model performed better? How does that compare to your prediction? Write down your results and thoughts.
+
+**Methods used:**
+
+Pandas
+
+Train_test_split
+
+LogisticRegression
+
+RandomForestClassifier
+
+StandardScaler
+
+Confusion_matrix
+
 
 

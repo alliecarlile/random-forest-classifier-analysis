@@ -1,22 +1,7 @@
-# supervised-machine-learning-challenge
 Background
 Lending services companies allow individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market.
 
 You will be using this data to create machine learning models to classify the risk level of given loans. Specifically, you will be comparing the Logistic Regression model and Random Forest Classifier.
-
-Before You Begin
-Create a new repository for this project called supervised-machine-learning-challenge. Do not add this Challenge to an existing repository.
-
-Clone the new repository to your computer.
-
-Inside your local git repository, create a directory for the Supervised Machine Learning Challenge. Use the folder names to correspond to the challenges: LogisticRegression and RandomForestClassifier.
-
-Push the above changes to GitHub.
-
-Files
-Download the following files to help you get started:
-
-Module 19 Challenge files
 
 Instructions
 Retrieve the data
@@ -31,5 +16,4 @@ You will be creating and comparing two models on this data: a Logistic Regressio
 Fit a LogisticRegression model and RandomForestClassifier model
 Create a Logistic Regression model, fit it to the data, and print the model's score. Do the same for a Random Forest Classifier. You may choose any starting hyperparameters you like. Which model performed better? How does that compare to your prediction? Write down your results and thoughts.
 
-Submission
-To submit your Challenge assignment, click Submit, and then provide the URL of your GitHub repository for grading.
+
